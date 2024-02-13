@@ -344,6 +344,7 @@
 "Assets/Scripts/Car.cs"
 "Assets/Scripts/Ground.cs"
 "Assets/Scripts/Player.cs"
+"Assets/Scripts/StartGame.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
